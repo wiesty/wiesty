@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Wiesty</h1>
-<h3 align="center">21 y/o Designer based in muc</h3>
+<h3 align="center">22 y/o Designer based in muc</h3>
 <center><a style="text-align:  center;" href="https://ko-fi.com/wiesty">Support me via  <img height="20" src="https://storage.ko-fi.com/cdn/brandasset/logo_white_stroke_small.png" ></a>
 
 
