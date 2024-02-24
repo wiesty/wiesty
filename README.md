@@ -1,12 +1,12 @@
 
- <img align="right" height="200px" alt="wiesty" width="200px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN3YmtlMTN4aTl5cHp4ZWxqaHJtYWtndHpvaTJrMWhodHZ1MGpjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/128cFIx0vlouKQ/giphy.gif" /> </a>
+ <img align="right" height="120px" alt="wiesty" width="120px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN3YmtlMTN4aTl5cHp4ZWxqaHJtYWtndHpvaTJrMWhodHZ1MGpjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/128cFIx0vlouKQ/giphy.gif" /> </a>
  
 ### Hi there 👋 I am Wiesty 🔺
 
 > 22 y/o from munich, germany 🥨 <br />
 > currently working on headless CMS systems (strapi, next.js)  <br />
 
-<br><br><br><br>
+<br />
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>GitHub Activity</b></i>
