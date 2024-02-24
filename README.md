@@ -1,5 +1,5 @@
 
- <img align="right" height="200px" alt="wiesty" width="200px" src="https://avatars.githubusercontent.com/u/106901362?v=4" /> </a>
+ <img align="right" height="200px" alt="wiesty" width="200px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN3YmtlMTN4aTl5cHp4ZWxqaHJtYWtndHpvaTJrMWhodHZ1MGpjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/128cFIx0vlouKQ/giphy.gif" /> </a>
  
 ### Hi there 👋 I am Wiesty 🔺
 
@@ -13,16 +13,16 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiesty&langs_count=10&show_icons=true&locale=en&layout=compact&title_color=fff\&icon_color=99060e\&text_color=99060e\&bg_color=151515" alt="wiesty" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiesty&langs_count=10&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=d0443b&text_color=a1abc4&bg_color=08050f" alt="wiesty" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=wiesty&show_icons=true&locale=en&hide=contribs,prs&rank_icon=github&include_all_commits=true&title_color=fff\&icon_color=99060e\&text_color=99060e\&bg_color=151515" alt="wiesty" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=wiesty&show_icons=true&locale=en&hide=contribs,prs&rank_icon=github&include_all_commits=true&title_color=fff&icon_color=d0443b&text_color=a1abc4&bg_color=08050f" alt="wiesty" width="410"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
 
 ## Technologies currently using
 
-
+<center>
 <div>
   <img  alt="nextjs" src ="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
   <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -57,6 +57,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=wiesty&layout=compact&theme=algolia" alt="wiesty" />
  </a>
 </p>
-
-
-[linkedin]: https://www.linkedin.com/in/janith-wiesty-herath-1345661a5 
+<p align="center">
+ <img align="center" height="200px" alt="wiesty" width="200px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1ajM2OHd4eGVlM3lyMnR5ZjRveG1uOGlyb3NweDI2YmpiNXFhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pD14W9QU6u0R2yJKmb/giphy.gif" /> </a>
+</p>
