@@ -24,6 +24,7 @@
 
 <center>
 <div align="center">
+ <img  alt="expo" src ="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=for-the-badge"/>
   <img  alt="nextjs" src ="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
   <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img  alt="Prisma" src ="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
