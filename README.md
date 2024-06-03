@@ -4,7 +4,6 @@
 ### Hi there 👋 I am Wiesty 🔺
 
 > 22 y/o from munich, germany 🥨 <br />
-> currently working on headless CMS systems (strapi, next.js)  <br />
 
 <br />
 
