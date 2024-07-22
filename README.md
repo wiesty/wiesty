@@ -1,23 +1,13 @@
 
- <img align="right" height="120px" alt="wiesty" width="120px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN3YmtlMTN4aTl5cHp4ZWxqaHJtYWtndHpvaTJrMWhodHZ1MGpjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/128cFIx0vlouKQ/giphy.gif" /> </a>
+ <img align="right" alt="wiesty" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiesty&langs_count=10&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=d0443b&text_color=a1abc4&bg_color=08050f" /> </a>
  
 ### Hi there 👋 I am Wiesty 🔺
 
 > 22 y/o from munich, germany 🥨 <br />
 
-<br />
+<br /><br /><br /><br /><br />
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>GitHub Activity</b></i>
-</p>
- 
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiesty&langs_count=10&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=d0443b&text_color=a1abc4&bg_color=08050f" alt="wiesty" />
-</p><br><br><br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=wiesty&show_icons=true&locale=en&hide=contribs,prs&rank_icon=github&include_all_commits=true&title_color=fff&icon_color=d0443b&text_color=a1abc4&bg_color=08050f" alt="wiesty" width="410"/>
-</p>
 
-<br><br><br><br><br><br>
 
 ##
 
