@@ -32,7 +32,7 @@ Hi there! I am Wiesty 🔺
 <p align="center">
  <a href="https://github.com/wiesty/github-profile-trophy">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiesty&theme=github_dark&hide_border=true)](https://github.com/wiesty" alt="wiesty's GitHub Stats Graph"/> </br><br /><br />
-  <img src="https://github-profile-trophy.vercel.app/?username=wiesty&layout=compact&theme=onedark" alt="wiesty" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=wiesty&layout=compact&theme=onedark" alt="wiesty" /> -->
  </a>
 </p>
 
