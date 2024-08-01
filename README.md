@@ -6,7 +6,7 @@ Hi there! I am Wiesty 🔺
 </h1>
 
 <pre>
-🥨 22 y/o from munich, germany
+🥨 a guy from munich, germany
 </pre>
 
 
@@ -25,9 +25,6 @@ Hi there! I am Wiesty 🔺
 </div>
 <br />
 
-<p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
-</p>
 
 <p align="center">
  <a>
