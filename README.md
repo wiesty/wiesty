@@ -22,7 +22,7 @@ Hi there! I am Wiesty 🔺
   <img  alt="php" src ="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <br /> <small><p align="center">and many more...</p></small>
- <img alt="wiesty" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiesty&langs_count=10&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=d0443b&text_color=a1abc4&bg_color=06071c" /> </a><br />
+ <img alt="wiesty" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiesty&langs_count=10&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=d0443b&text_color=a1abc4&bg_color=0e1117" /> </a><br />
 </div>
 <br />
 
