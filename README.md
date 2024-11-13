@@ -23,9 +23,11 @@ Hi there! I am Wiesty 🔺
 <small><p align="center">and many more...</p></small>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img alt="wiesty's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiesty&langs_count=10&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=d0443b&text_color=a1abc4&bg_color=0e1117" />
-    <img alt="wiesty's GitHub Stats Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiesty&theme=github_dark&hide_border=true" />
+<div align="center">
+    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+        <img style="width: 30%;" alt="wiesty's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiesty&langs_count=10&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=d0443b&text_color=a1abc4&bg_color=0e1117&hide_border=true" />
+        <img style="width: 50%;" alt="wiesty's GitHub Stats Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiesty&theme=github_dark&hide_border=true" />
+    </div>
 </div>
 
 
