@@ -11,14 +11,14 @@ Hi there! I am Wiesty 🔺
 
 <div align="center">
 <h1>Tech Stack🔺</h1>
-  <img alt="expo" src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=for-the-badge"/>
   <img alt="nextjs" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript Badge">
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff&style=for-the-badge" alt="VMware Badge">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge" alt="Cloudflare Badge">
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?logo=hetzner&logoColor=fff&style=for-the-badge" alt="Hetzner Badge">
 <br />
 <small><p align="center">and many more...</p></small>
 </div>
