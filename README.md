@@ -24,8 +24,7 @@
   <img src="https://img.shields.io/badge/Proxmox-0E7490?logo=proxmox&logoColor=fff&style=for-the-badge" alt="Proxmox Badge">
   <img src="https://img.shields.io/badge/Cloudflare-0891B2?logo=cloudflare&logoColor=fff&style=for-the-badge" alt="Cloudflare Badge">
   <img src="https://img.shields.io/badge/Hetzner-0F6FA8?logo=hetzner&logoColor=fff&style=for-the-badge" alt="Hetzner Badge">
-  </p>
-  <small>and many more...</small>
+  <small height="16">and many more...</small></p>
 </div>
 
 <div align="center">
