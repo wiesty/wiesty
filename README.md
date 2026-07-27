@@ -9,7 +9,7 @@
 <div align="left">
   <div>
     <sub>Tech Stack🔺</sub>
-    <img align="right" height="18" src="https://views.whatilearened.today/views/github/wiesty/wiesty.svg?cache=remove"/>
+    <img align="right" height="18" src="https://komarev.com/ghpvc/?username=wiesty&amp;label=views&amp;color=007AFF&amp;style=flat&amp;base=4978" alt="Wiesty profile views"/>
   </div>
   <br />
   <p>
