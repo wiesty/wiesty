@@ -1,37 +1,29 @@
-<h1 align="center">
-Hi there! I am Wiesty 🔺
-	<a href="https://github.com/Wiesty" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./header-light.svg" />
+    <img src="./header.svg" width="100%" alt="Wiesty — Software, Infrastructure, Product Design" />
+  </picture>
+</p>
 
-<pre>
-🥨 a guy from munich, germany
-</pre>
-
-<div align="center">
-<h1>Tech Stack🔺</h1>
+<div align="left">
+  <div style="margin-bottom: 12px;">
+    <sub>Tech Stack🔺</sub>
+    <img align="right" height="18" src="https://views.whatilearened.today/views/github/wiesty/wiesty.svg?cache=remove"/>
+  </div>
+  <img alt="Tenbyte" src="https://img.shields.io/badge/Tenbyte-007AFF?logo=data:image/svg%2Bxml;base64,PHN2ZyB3aWR0aD0iNTE0IiBoZWlnaHQ9IjcyOCIgdmlld0JveD0iMCAwIDUxNCA3MjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCjxwYXRoIGQ9Ik03NC4xIDc0TDAgMTQ3LjlMMTA4IDI1NkwyMTYgMzY0TDEwOS4yIDQ3MC44TDIuNSA1NzcuNUw3Ny41IDY1Mi41TDE1Mi41IDcyNy41TDMzMyA1NDYuOUM0MzIuMyA0NDcuNiA1MTMuNSAzNjUuNyA1MTMuNSAzNjVDNTEzLjUgMzYzLjYgMTUwLjYgMCAxNDkuMiAwQzE0Ny44IDAgMTE0LjkgMzMuMyA3NC4xIDc0WiIgZmlsbD0iI2ZmZmZmZiIvPgo8L3N2Zz4K&logoColor=fff&style=for-the-badge"/>
   <img alt="nextjs" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-FF5A03?logo=astro&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript Badge">
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff&style=for-the-badge" alt="VMware Badge">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=fff&style=for-the-badge" alt="Proxmox Badge">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge" alt="Cloudflare Badge">
   <img src="https://img.shields.io/badge/Hetzner-D50C2D?logo=hetzner&logoColor=fff&style=for-the-badge" alt="Hetzner Badge">
-<br />
-<small><p align="center">and many more...</p></small>
-</div>
-<!-- </br>
-<div align="center">
-    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-        <img style="height: 150px;" alt="wiesty's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiesty&langs_count=10&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=d0443b&text_color=a1abc4&bg_color=0e1117&hide_border=true" />
-        <img style="height: 150px;" alt="wiesty's GitHub Stats Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiesty&theme=github_dark&hide_border=true" />
-    </div>
-</div> 
-</br>-->
-<div align="center">
- <img src="https://views.whatilearened.today/views/github/wiesty/wiesty.svg?cache=remove"/>
+  <br />
+  <small>and many more...</small>
 </div>
 
 <div align="center">
