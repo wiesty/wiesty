@@ -13,6 +13,8 @@
   </div>
   <br />
   <p>
+  </div>
+  <div align="center">
   <a href="https://tenbyte.de"><img alt="Tenbyte" style="box-shadow: 0 0 12px 2px rgba(0, 122, 255, 0.3);" src="https://img.shields.io/badge/Tenbyte-007AFF?logo=data:image/svg%2Bxml;base64,PHN2ZyB3aWR0aD0iNTE0IiBoZWlnaHQ9IjcyOCIgdmlld0JveD0iMCAwIDUxNCA3MjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCjxwYXRoIGQ9Ik03NC4xIDc0TDAgMTQ3LjlMMTA4IDI1NkwyMTYgMzY0TDEwOS4yIDQ3MC44TDIuNSA1NzcuNUw3Ny41IDY1Mi41TDE1Mi41IDcyNy41TDMzMyA1NDYuOUM0MzIuMyA0NDcuNiA1MTMuNSAzNjUuNyA1MTMuNSAzNjVDNTEzLjUgMzYzLjYgMTUwLjYgMCAxNDkuMiAwQzE0Ny44IDAgMTE0LjkgMzMuMyA3NC4xIDc0WiIgZmlsbD0iI2ZmZmZmZiIvPgo8L3N2Zz4K&logoColor=fff&style=for-the-badge"/></a>
   <img alt="nextjs" src="https://img.shields.io/badge/Next.js-0B3D60?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
   <img alt="Astro" src="https://img.shields.io/badge/Astro-075985?logo=astro&logoColor=fff&style=for-the-badge"/>
